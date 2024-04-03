@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson-4/Lesson-4.iml" filepath="$PROJECT_DIR$/Lesson-4/Lesson-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Progect_1/Progect_1.iml" filepath="$PROJECT_DIR$/Progect_1/Progect_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-1/lesson-1.iml" filepath="$PROJECT_DIR$/lesson-1/lesson-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-10/lesson-10.iml" filepath="$PROJECT_DIR$/lesson-10/lesson-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-19/lesson-19.iml" filepath="$PROJECT_DIR$/lesson-19/lesson-19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-2/lesson-2.iml" filepath="$PROJECT_DIR$/lesson-2/lesson-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-20/lesson-20.iml" filepath="$PROJECT_DIR$/lesson-20/lesson-20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson6/lesson6.iml" filepath="$PROJECT_DIR$/lesson6/lesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marshal/marshal.iml" filepath="$PROJECT_DIR$/marshal/marshal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-lesson-1/oop-lesson-1.iml" filepath="$PROJECT_DIR$/oop-lesson-1/oop-lesson-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-lesson-11/oop-lesson-11.iml" filepath="$PROJECT_DIR$/oop-lesson-11/oop-lesson-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-lesson-15/oop-lesson-15.iml" filepath="$PROJECT_DIR$/oop-lesson-15/oop-lesson-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-lesson-7/oop-lesson-7.iml" filepath="$PROJECT_DIR$/oop-lesson-7/oop-lesson-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youtube/youtube.iml" filepath="$PROJECT_DIR$/youtube/youtube.iml" />
+    </modules>
+  </component>
+</project>
