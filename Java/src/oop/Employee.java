@@ -28,13 +28,18 @@ public class Employee extends Person {
         this.salary = salary;
     }
 
-public int getPersonAge(Person person){
-        return person.getAge();
-}
-
     @Override  // переопределение метода getInfo
     public String getInfo() {
         return super.getInfo() + ", зарплата: " + this.salary;
+    }
+
+    @Override
+    public int getAge() {
+        return super.getAge();
+    }
+
+    public int getPersonAge(){
+        return getAge();
     }
 
     public int getSalary() {
@@ -45,13 +50,5 @@ public int getPersonAge(Person person){
         this.salary = salary;
     }
 
-    @Override
-    public int getAge() {
-        return age;
-    }
 
-    @Override
-    public void setAge(int age) {
-        this.age = age;
-    }
 }
